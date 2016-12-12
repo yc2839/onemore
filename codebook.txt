@@ -1,0 +1,215 @@
+--------------------------------
+Drive-Thru
+                                        0 :    0
+                                        1 :    1
+--------------------------------
+Alcohol
+                                        0 :    0
+ beer_and_wine                            :    1
+ full_bar                                 :    2
+--------------------------------
+Open 24 Hours
+                                        0 :    0
+                                        1 :    1
+--------------------------------
+Noise Level
+                                        0 :    0
+                                        1 :    1
+                                        2 :    2
+                                        3 :    3
+--------------------------------
+Has TV
+                                        0 :    0
+                                        1 :    1
+--------------------------------
+Attire
+ casual                                   :    0
+ dressy                                   :    1
+ formal                                   :    2
+--------------------------------
+Ambience
+ casual                                   :    0
+ classy                                   :    1
+ classy, casual                           :    2
+ classy, divey, trendy                    :    3
+ classy, hipster, upscale, casual         :    4
+ classy, touristy                         :    5
+ classy, touristy, casual                 :    6
+ classy, trendy                           :    7
+ classy, trendy, casual                   :    8
+ classy, trendy, upscale                  :    9
+ classy, trendy, upscale, casual          :   10
+ classy, upscale                          :   11
+ divey                                    :   12
+ divey, casual                            :   13
+ divey, trendy                            :   14
+ divey, trendy, casual                    :   15
+ hipster                                  :   16
+ hipster, casual                          :   17
+ hipster, touristy, trendy, casual        :   18
+ hipster, trendy                          :   19
+ hipster, trendy, casual                  :   20
+ intimate                                 :   21
+ intimate, casual                         :   22
+ intimate, classy                         :   23
+ intimate, classy, casual                 :   24
+ intimate, classy, upscale                :   25
+ intimate, divey, casual                  :   26
+ intimate, hipster                        :   27
+ intimate, hipster, trendy                :   28
+ intimate, hipster, trendy, casual        :   29
+ intimate, trendy                         :   30
+ intimate, trendy, casual                 :   31
+ intimate, trendy, upscale, casual        :   32
+ romantic                                 :   33
+ romantic, casual                         :   34
+ romantic, classy                         :   35
+ romantic, classy, casual                 :   36
+ romantic, classy, touristy, casual       :   37
+ romantic, classy, trendy                 :   38
+ romantic, classy, upscale                :   39
+ romantic, divey                          :   40
+ romantic, hipster                        :   41
+ romantic, intimate                       :   42
+ romantic, intimate, casual               :   43
+ romantic, intimate, classy               :   44
+ romantic, intimate, classy, casual       :   45
+ romantic, intimate, classy, hipster, trendy, casual :   46
+ romantic, intimate, classy, trendy       :   47
+ romantic, intimate, classy, upscale      :   48
+ romantic, intimate, trendy               :   49
+ romantic, intimate, trendy, casual       :   50
+ romantic, trendy                         :   51
+ romantic, trendy, upscale                :   52
+ romantic, upscale                        :   53
+ romantic, upscale, casual                :   54
+ touristy                                 :   55
+ touristy, casual                         :   56
+ touristy, trendy, casual                 :   57
+ trendy                                   :   58
+ trendy, casual                           :   59
+ trendy, upscale                          :   60
+ trendy, upscale, casual                  :   61
+ upscale                                  :   62
+ upscale, casual                          :   63
+--------------------------------
+Good for Kids
+                                        0 :    0
+                                        1 :    1
+--------------------------------
+Price Range
+                                      1.0 :    0
+                                      2.0 :    1
+                                      3.0 :    2
+                                      4.0 :    3
+--------------------------------
+BYOB
+                                        0 :    0
+                                        1 :    1
+--------------------------------
+Accepts Insurance
+                                        0 :    0
+--------------------------------
+Good For Dancing
+                                        0 :    0
+                                        1 :    1
+--------------------------------
+Delivery
+                                        0 :    0
+                                        1 :    1
+--------------------------------
+Dogs Allowed
+                                        0 :    0
+                                        1 :    1
+--------------------------------
+Coat Check
+                                        0 :    0
+                                        1 :    1
+--------------------------------
+Smoking
+                                        0 :    0
+ outdoor                                  :    1
+ yes                                      :    2
+--------------------------------
+Accepts Credit Cards
+                                        0 :    0
+                                        1 :    1
+--------------------------------
+BYOB/Corkage
+                                        0 :    0
+                                        1 :    1
+--------------------------------
+Take-out
+                                        0 :    0
+                                        1 :    1
+--------------------------------
+Ages Allowed
+ 18plus                                   :    0
+ 19plus                                   :    1
+ 21plus                                   :    2
+ allages                                  :    3
+--------------------------------
+Corkage
+                                        0 :    0
+                                        1 :    1
+--------------------------------
+Happy Hour
+                                        0 :    0
+                                        1 :    1
+--------------------------------
+Wheelchair Accessible
+                                        0 :    0
+                                        1 :    1
+--------------------------------
+Outdoor Seating
+                                        0 :    0
+                                        1 :    1
+--------------------------------
+Takes Reservations
+                                        0 :    0
+                                        1 :    1
+--------------------------------
+Waiter Service
+                                        0 :    0
+                                        1 :    1
+--------------------------------
+Wi-Fi
+                                        0 :    0
+ free                                     :    1
+ paid                                     :    2
+--------------------------------
+categories
+ African                                  :    0
+ American                                 :    1
+ Asian                                    :    2
+ European                                 :    3
+ Latin American                           :    4
+ Middle Eastern                           :    5
+ Others                                   :    6
+--------------------------------
+Caters
+                                        0 :    0
+                                        1 :    1
+--------------------------------
+Order at Counter
+                                        0 :    0
+                                        1 :    1
+--------------------------------
+Good For
+                                        1 :    0
+                                        2 :    1
+                                        3 :    2
+                                        4 :    3
+                                        5 :    4
+                                        6 :    5
+--------------------------------
+Parking
+                                        1 :    0
+--------------------------------
+By Appointment Only
+                                        0 :    0
+                                        1 :    1
+--------------------------------
+Good For Groups
+                                        0 :    0
+                                        1 :    1
